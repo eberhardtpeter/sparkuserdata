@@ -10,8 +10,11 @@ Please set the following environment variables:
 
 Prerequisites
 -------------
+
 Apache Spark 2.4.x (the scripts are using `spark-submit` to execute Spark jobs)
+
 Java JDK 1.8
+
 Before first use please run the `scripts/setup.sh` script to build the Maven Java project.
 
 Data generator
