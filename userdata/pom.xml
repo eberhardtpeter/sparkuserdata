@@ -8,7 +8,7 @@
     <artifactId>sparkprocessor</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <sparkVersion>2.4.3</sparkVersion>
+        <sparkVersion>3.4.0</sparkVersion>
         <hbaseVersion>1.4.10</hbaseVersion>
     </properties>
 
